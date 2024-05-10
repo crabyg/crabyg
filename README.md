@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Crab YG Github&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CrabYG Github&fontSize=90" />
 ### Hi there 👋
 
 <!--
