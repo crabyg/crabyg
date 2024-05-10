@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=17,18,19,20,21,22,23&text=CrabYG%20Github&reversal=false&textBg=false&fontAlign=50&fontAlignY=39&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=17,18,19,20,21,22&text=CrabYG%20Github&reversal=false&textBg=false&fontAlign=50&fontAlignY=39&fontSize=60" />
 
 ## 인적사항
 
