@@ -34,3 +34,6 @@
 ## 특허
 - Jong-Uk Hou, Yoongeol Lee, Jaeho Lee, "ELECTRONIC DEVICE AND THE CONTROLLING METHOD THEREOF FOR DETECTING WHETHER A DRIVER AND A PET ARE IN THE DRIVER'S SEAT TOGETHER", KR-Application No. 10-2024-0005699
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/crabyg?pet-id=10" width="1000" height="250"/>
+</a>
