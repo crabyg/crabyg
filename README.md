@@ -4,7 +4,11 @@
 
 - **이름** : 이윤걸 <br>
 - **Email** : crabyg71@gmail.com
-- **소속** : MMCLab(Multimedia Computing Laboratory) 2022.08 - Present
+- **소속** :
+  
+  - Ouar Lab(Obstructive Upper airway Research LaBoratory) 2024.08 - Present
+  
+  - MMCLab(Multimedia Computing Laboratory) 2022.08 - 2024.08
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
