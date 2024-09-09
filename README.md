@@ -6,7 +6,7 @@
 - **Email** : crabyg71@gmail.com
 - **소속** :
   
-  - Ouar Lab(Obstructive Upper airway Research LaBoratory) 2024.08 - Present
+  - OUaR LaB(Obstructive Upper airway Research LaBoratory) 2024.08 - Present
   
   - MMCLab(Multimedia Computing Laboratory) 2022.08 - 2024.08
   
