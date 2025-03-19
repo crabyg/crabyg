@@ -3,7 +3,9 @@
 ## 인적사항
 
 - **이름** : 이윤걸 <br>
-- **Email** : crabyg71@gmail.com
+- **Email** :
+  - crabyg71@snu.ac.kr
+  - crabyg71@gmail.com
 - **소속** :
   
   - OUaR LaB(Obstructive Upper airway Research LaBoratory) 2024.08 - Present
